@@ -1,0 +1,4 @@
+2025-04-04 07:17:00.244097 - Received CBT.V508.FILE285.PDS from FILE285.XMI 
+2025-04-04 07:17:00.244707 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE285.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:17:00.244847 - Found @FILE285.txt (text/plain) in CBT.V508.FILE285.PDS, moved to PDS/@FILE285
+2025-04-04 07:17:00.244994 - Found HYPH.txt (text/plain) in CBT.V508.FILE285.PDS, moved to PDS/HYPH
